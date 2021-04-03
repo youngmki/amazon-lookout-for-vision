@@ -15,9 +15,9 @@ Amazon Lookout for Vision은 컴퓨터 비전 (CV)을 이용하여 시각적 표
 4. "Amazon Lookout for Vision Lab.ipynb" 노트북을 클릭해서 여세요
 <img src="insidejupyter.png" width="50%">
 
-4. 노트북 지침을 따르며 예제를 완료하세요
+5. 노트북 지침을 따르며 예제를 완료하세요
 
-5. 노트북 단계를 진행하면서 특히 다음의 경우 콘솔에서 변경 사항을 확인합니다. 
+6. 노트북 단계를 진행하면서 특히 다음의 경우 콘솔에서 변경 사항을 확인합니다. 
 
 - 프로젝트 생성 
 - 데이터셋 생성 
