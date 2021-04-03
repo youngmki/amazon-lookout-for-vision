@@ -1,6 +1,6 @@
 # Amazon Lookout for Vision 데모
 
-Amazon Lookout for Vision은 컴퓨터 비전 (CV)을 이용하여 시각적 표현에서 결함과 이상을 발견하는 기계 학습 (ML) 서비스입니다. Amazon Lookout for Vision을 사용하면 제조 회사는 대규모 객체 이미지 간의 차이점을 빠르게 식별하여 품질을 높이고 운영 비용을 줄일 수 있습니다. 본 워크샵은 Lookout for Vision 모델을 교육하고 호스팅하기 위해 boto3 python SDK를 사용하는 예제를 처음부터 끝까지 수행해봅니다. 콘솔 전용 시작 안내서로 https://docs.aws.amazon.com/lookout-for-vision/latest/developer-guide/getting-started.html 을 참조하세요.
+Amazon Lookout for Vision은 컴퓨터 비전 (CV)을 이용하여 시각적 표현에서 결함과 이상을 발견하는 기계 학습 (ML) 서비스입니다. Amazon Lookout for Vision을 사용하면 제조 회사는 대규모 객체 이미지 간의 차이점을 빠르게 식별하여 품질을 높이고 운영 비용을 줄일 수 있습니다. 본 워크샵은 Lookout for Vision 모델을 훈련시키고 호스팅하기 위해 boto3 python SDK를 사용하는 예제를 처음부터 끝까지 수행해봅니다. 콘솔 전용 시작 안내서로 https://docs.aws.amazon.com/lookout-for-vision/latest/developer-guide/getting-started.html 을 참조하세요.
 
 ## 단계:
 
