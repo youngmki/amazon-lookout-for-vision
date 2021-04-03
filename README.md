@@ -5,7 +5,7 @@ Amazon Lookout for Vision은 컴퓨터 비전 (CV)을 이용하여 시각적 표
 ## 단계:
 
 1. 우선 다음의 Cloudformation 템플릿을 실행합니다 - [<img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png">](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=l4vworkshopstack&templateURL=https://shreyasvathul.s3.us-east-2.amazonaws.com/SampleLFVTemplate2.yaml)
-(위치가 us-east-1인지 확인하세요.)
+(위치가 us-east-1인지 확인하세요)
 
 2. AWS 콘솔에서 SageMaker로 이동하여 측면 메뉴에서 노트북 인스턴스를 클릭합니다
 
